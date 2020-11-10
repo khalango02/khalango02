@@ -1,13 +1,11 @@
 <h2 style="text-align: center;"> Hi there 👋 Cles here!</h2>
 
-<img src="https://camo.githubusercontent.com/3741a14b6f4735ba331ceb23c2004fd80fcca082143ca11c8c13058b2fc2f181/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f34313734323437342f313439303031363538382f3135303078353030">
-
-
-
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
 <td  style="text-align: center; border: 0">
-      
+- 🔭 Currently working on PHP, Python, NodeJS and Go
+- 🌱 Learning more about computers work & Algorithms
+- 💬 Ask me about **Backend**
 </td  style="text-align: center; border: 0">
 <td>
 
