@@ -4,7 +4,7 @@
     <tr  style="text-align: center; border: 0">
         <td  style="text-align: center; border: 0">
             - 🔭 Currently working on PHP, Python, NodeJS and Go</br>
-            - 🌱 Learning more about computers work & Algorithms</br>
+            - 🌱 Learning more about how computers work & Algorithms</br>
             - 💬 Ask me about **Backend**</br>
         </td  style="text-align: center; border: 0">
         <td>
