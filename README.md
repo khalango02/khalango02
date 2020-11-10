@@ -5,7 +5,6 @@
         <td  style="text-align: center; border: 0">
             - 🔭 Currently working on PHP, Python, NodeJS and Go</br>
             - 🌱 Learning more about how computers work & Algorithms</br>
-            - 💬 Ask me about **Backend**</br>
         </td  style="text-align: center; border: 0">
         <td>
             <img width="auto" height="190px" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
