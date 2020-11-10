@@ -1,8 +1,8 @@
-<img src="https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500">
-
-
-
 <h2 style="text-align: center;"> Hi there 👋 Cles here!</h2>
+
+<img src="https://pbs.twimg.com/profile_banners/41742474/149s0016588/1500x500">
+
+
 
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
@@ -21,11 +21,11 @@
 📫  &nbsp; *How to reach me*
 </br>
 <a href="https://www.linkedin.com/in/cloliveira1/">
-<img height="30" width="200" src="#">
+<img height="30" width="200" src="https://img.shields.io/badge/Linkedin-Clesley%20Oliveira-blue">
 </a>
 
 <a href="mailto:clesley.oliveira@gmail.com">
-<img height="30" width="200" src="#">
+<img height="30" width="200" src="https://img.shields.io/badge/Mail-Cles-orange">
 </a>
 
 </td>
