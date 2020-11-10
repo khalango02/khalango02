@@ -21,11 +21,11 @@
 📫  &nbsp; *How to reach me*
 </br>
 <a href="https://www.linkedin.com/in/cloliveira1/">
-<img height="30" width="200" src="https://img.shields.io/badge/Linkedin-Clesley%20Oliveira-blue">
+<img height="30" max-width="100" src="https://img.shields.io/badge/Linkedin-Clesley%20Oliveira-blue">
 </a>
 
 <a href="mailto:clesley.oliveira@gmail.com">
-<img height="30" width="200" src="https://img.shields.io/badge/Mail-Cles-orange">
+<img height="30" max-width="100" src="https://img.shields.io/badge/Mail-Cles-orange">
 </a>
 
 </td>
