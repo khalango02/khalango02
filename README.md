@@ -3,7 +3,7 @@
 <table boder="0" style="border: 0">
     <tr  style="text-align: center; border: 0">
         <td  style="text-align: center; border: 0">
-            - 🔭 Currently working on PHP, Python, NodeJS and Go</br>
+            - 🔭 Currently working on PHP, Python, NodeJS, Go, CI/CD, Cloud and Automation</br>
             - 🌱 Learning more about how computers work & Algorithms</br>
         </td  style="text-align: center; border: 0">
         <td>
