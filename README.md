@@ -1,24 +1,36 @@
-<h2 style="text-align: center;"> Hi there 👋 Cles here!</h2>
+<h2 align="center" style="color: #c9d1d9;">👋 Olá, sou Clesley Oliveira</h2>
+<h4 align="center" style="color: #8b949e;">Site Reliability Engineer & Backend Developer</h4>
 
-<table boder="0" style="border: 0">
-    <tr  style="text-align: center; border: 0">
-        <td  style="text-align: center; border: 0">
-            - 🔭 Currently working on PHP, Python, NodeJS, Go, CI/CD, Cloud and Automation</br>
-            - 🌱 Learning more about how computers work & Algorithms</br>
-        </td  style="text-align: center; border: 0">
-        <td>
-            <img width="auto" height="190px" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
-        </td>
-        <td width="230px" style="text-align: center;">
-            </br>
-            📫  &nbsp; *How to reach me*
-            </br>
-            <a href="https://www.linkedin.com/in/cloliveira1/">
-                <img height="30" max-width="100" src="https://img.shields.io/badge/Linkedin-Clesley%20Oliveira-blue">
-            </a>
-            <a href="mailto:clesley.oliveira@gmail.com">
-                <img height="30" max-width="100" src="https://img.shields.io/badge/Mail-Cles-orange">
-            </a>
-        </td>
-    </tr>
+<div align="center">
+  <p style="color: #8b949e; max-width: 700px; margin: 0 auto;">
+    Apaixonado por construir sistemas resilientes, escaláveis e automatizados.
+    Atuo com foco em SRE, observabilidade, arquitetura de microsserviços, automação e APIs robustas.
+  </p>
+</div>
+
+<hr style="border-color: #30363d; margin: 20px 0;"/>
+
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 65%; vertical-align: top; color: #8b949e; font-size: 14px;">
+      <ul>
+        <li>🔧 Especializado em: <strong>Go</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Shell Script</strong></li>
+        <li>☁️ Experiência com: <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>, <strong>Observabilidade</strong>, <strong>Cloud (AWS/GCP)</strong></li>
+        <li>📈 Monitoramento: <strong>Grafana</strong>, <strong>Prometheus</strong>, <strong>ELK</strong>, <strong>Datadog</strong></li>
+        <li>📡 APIs: REST, WebSockets, OpenAPI, API Gateway</li>
+        <li>📚 Estudando: <em>design de sistemas distribuídos, segurança em produção e tolerância a falhas</em></li>
+      </ul>
+    </td>
+    <td align="center" style="width: 35%;">
+      <p style="color: #8b949e;"><strong>📫 Como me encontrar:</strong></p>
+      <a href="https://www.linkedin.com/in/cloliveira1/">
+        <img src="https://img.shields.io/badge/LinkedIn-Clesley%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a><br><br>
+      <a href="mailto:clesley.oliveira@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-clesley.oliveira@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
+
+<hr style="border-color: #30363d; margin: 20px 0;"/>
