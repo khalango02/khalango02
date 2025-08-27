@@ -18,7 +18,6 @@
         <li>☁️ Experiência com: <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>, <strong>Observabilidade</strong>, <strong>Cloud (AWS/GCP)</strong></li>
         <li>📈 Monitoramento: <strong>Grafana</strong>, <strong>Prometheus</strong>, <strong>ELK</strong>, <strong>Datadog</strong></li>
         <li>📡 APIs: REST, WebSockets, OpenAPI, API Gateway</li>
-        <li>📚 Estudando: <em>design de sistemas distribuídos, segurança em produção e tolerância a falhas</em></li>
       </ul>
     </td>
     <td align="center" style="width: 35%;">
