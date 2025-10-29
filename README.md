@@ -15,7 +15,7 @@
     <td style="width: 65%; vertical-align: top; color: #8b949e; font-size: 14px;">
       <ul>
         <li>🔧 Especializado em: <strong>Go</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Shell Script</strong></li>
-        <li>☁️ Experiência com: <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>, <strong>Observabilidade</strong>, <strong>Cloud (AWS/GCP)</strong></li>
+        <li>☁️ Experiência com: <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>, <strong>Observabilidade</strong>, <strong>Cloud (AWS/GCP/Azure)</strong></li>
         <li>📈 Monitoramento: <strong>Grafana</strong>, <strong>Prometheus</strong>, <strong>ELK</strong>, <strong>Datadog</strong></li>
         <li>📡 APIs: REST, WebSockets, OpenAPI, API Gateway</li>
       </ul>
