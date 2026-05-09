@@ -9,110 +9,58 @@
  ╚═════╝╚══════╝╚═════╝ ╚══════╝
 ```
 
-**Backend Engineer · API Security · Cybersecurity**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clesley%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloliveira1/)
-[![Email](https://img.shields.io/badge/Email-clesley.oliveira@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:clesley.oliveira@gmail.com)
-![São Paulo, Brasil](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brasil-green?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloliveira1/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:clesley.oliveira@gmail.com)
+![São Paulo](https://img.shields.io/badge/São%20Paulo-Brasil-009c3b?style=flat-square)
 
 </div>
 
 ---
-
-## whoami
 
 ```bash
-$ probe fingerprint https://github.com/khalango02
+cl35@probe:~$ cat whoami.txt
 
-[+] Name          Clesley Oliveira — CL35
-[+] Age           30
-[+] Role          Senior Backend Engineer & API Security
-[+] Location      São Paulo, Brasil
-[+] Experience    Backend development since the days of bare Node.js APIs
-[+] Currently     Studying offensive security · Web exploitation
-[+] Stack         Go · Python · TypeScript · Terraform · Docker · K8s
-[*] Interests     Cryptography · Hardware Hacking · Geopolitics · AI
+  name     →  Clesley Oliveira
+  role     →  Backend SR · API Security
+  location →  São Paulo, Brasil
+  age      →  30
+
+cl35@probe:~$ ls ~/stack/
+
+  languages/   Go · Python · TypeScript · JavaScript
+  infra/       Docker · Kubernetes · Terraform
+  cloud/       AWS · GCP · Azure
+  databases/   PostgreSQL · MongoDB · Redis
+  security/    custom tooling · Burp Suite · Wireshark
+  ai/          OpenAI · Ollama · pgvector · RAG pipelines
+
+cl35@probe:~$ probe fingerprint ~/interests
+
+  [+] Cryptography        classical ciphers → asymmetric schemes
+  [+] Hardware Hacking    ESP32, RF protocols, physical surfaces  
+  [+] Geopolitics         tech, power and global dynamics
+  [+] Cybersecurity       web exploitation, API attack surfaces
+
+cl35@probe:~$ ls ~/projects/
+
+  probe/                matchmaking-agent/    pdf-translator/
+
+cl35@probe:~$ █
 ```
 
 ---
 
-## Focus areas
-
-**Backend & APIs**
-Designing and securing high-throughput APIs — REST, WebSockets, gateways. Strong background in distributed systems, observability (Grafana, Prometheus, ELK) and cloud infrastructure (AWS, GCP, Azure).
-
-**API Security**
-Rate limiting, authentication flows, JWT hardening, CORS audits, injection prevention. Security is an architecture concern, not an afterthought.
-
-**Offensive Security**
-Studying web exploitation in depth: SQLi, SSTI, IDOR, authentication bypass, cookie forgery. Building custom tooling to understand attack surfaces from the inside out.
-
----
-
-## Tech stack
-
-| Layer | Technologies |
-|---|---|
-| **Languages** | Go · Python · TypeScript · JavaScript |
-| **Infra** | Docker · Kubernetes · Terraform (HCL) |
-| **Cloud** | AWS · GCP · Azure |
-| **Databases** | PostgreSQL · MongoDB · Redis |
-| **Observability** | Grafana · Prometheus · ELK · Datadog |
-| **Security** | Burp Suite · Wireshark · custom Go tooling |
-| **AI / ML** | OpenAI · Ollama · pgvector · RAG pipelines |
-
----
-
-## Featured projects
-
-### [probe](https://github.com/khalango02/probe) `Go`
-Modular web analysis toolkit built for CTF and pentesting. Single binary, no runtime dependencies. Runs entirely in the terminal.
-- HTTP fingerprinting — tech stack, WAF, security headers, CORS
-- Parameter mining with concurrent workers
-- Injection testing: SQLi (error + time-based), SSTI, XSS, path traversal, CMDi
-- Response differ for IDOR and authorization logic
-- Cookie decoder: JWT, Flask session, Base64, Hex
-
-### [matchmaking-agent](https://github.com/khalango02/matchmaking-agent) `Python`
-AI-powered matchmaking platform using semantic search (pgvector) + LLM reasoning (GPT-4o-mini). Progressive learning through a RAG pipeline fed by human feedback.
-
-### [pdf-translator](https://github.com/khalango02/pdf-translator) `TypeScript`
-Scientific PDF translator powered by GPT-4o. Preserves document structure, equations, citations and cross-references across 11 languages.
-
----
-
-## GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalango02&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalango02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
-
----
-
-## Beyond code
-
 ```
-Geopolitics       ████████████░░░  Following global power shifts and
-                                   how they shape the tech landscape.
-
-Cryptography      ██████████░░░░░  From classical ciphers to modern
-                                   asymmetric schemes and ZK proofs.
-
-Hardware Hacking  ████████░░░░░░░  Raspberry Pi, ESP32, RF protocols,
-                                   physical attack surfaces.
-
-Cybersecurity     ███████░░░░░░░░  Web exploitation, API attack surfaces,
-                                   building offensive tooling from scratch.
+┌─────────────────────────────────────────────────────────────────────┐
+│  ~/projects/                                                        │
+├──────────────────────┬──────────────┬──────────────────────────────┤
+│  probe               │  Go          │  Modular web analysis toolkit │
+│                      │              │  fingerprint · inject · diff  │
+├──────────────────────┼──────────────┼──────────────────────────────┤
+│  matchmaking-agent   │  Python      │  AI matchmaking · pgvector   │
+│                      │              │  RAG pipeline · GPT-4o-mini  │
+├──────────────────────┼──────────────┼──────────────────────────────┤
+│  pdf-translator      │  TypeScript  │  Scientific PDF → 11 langs   │
+│                      │              │  GPT-4o · structure preserved │
+└──────────────────────┴──────────────┴──────────────────────────────┘
 ```
-
----
-
-<div align="center">
-
-*Building systems that don't break. Breaking systems that shouldn't exist.*
-
-</div>
