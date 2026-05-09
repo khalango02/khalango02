@@ -1,35 +1,123 @@
-<h2 align="center" style="color: #c9d1d9;">👋 Olá, sou Clesley Oliveira</h2>
-<h4 align="center" style="color: #8b949e;">Site Reliability Engineer & Backend Developer</h4>
-
 <div align="center">
-  <p style="color: #8b949e; max-width: 700px; margin: 0 auto;">
-    Apaixonado por construir sistemas resilientes, escaláveis e automatizados.
-    Atuo com foco em SRE, observabilidade, arquitetura de microsserviços, automação e APIs robustas.
-  </p>
+
+```
+ ██████╗██╗     ██████╗ ███████╗
+██╔════╝██║     ╚════██╗██╔════╝
+██║     ██║      █████╔╝███████╗
+██║     ██║      ╚═══██╗╚════██║
+╚██████╗███████╗██████╔╝███████║
+ ╚═════╝╚══════╝╚═════╝ ╚══════╝
+```
+
+**Backend Engineer · API Security · CTF Player**
+
+*"Technology has been my first language since I was 4."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clesley%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloliveira1/)
+[![Email](https://img.shields.io/badge/Email-clesley.oliveira@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:clesley.oliveira@gmail.com)
+![São Paulo, Brasil](https://img.shields.io/badge/📍-São%20Paulo%2C%20Brasil-green?style=flat-square)
+
 </div>
 
-<hr style="border-color: #30363d; margin: 20px 0;"/>
+---
 
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 65%; vertical-align: top; color: #8b949e; font-size: 14px;">
-      <ul>
-        <li>🔧 Especializado em: <strong>Go</strong>, <strong>Node.js</strong>, <strong>Python</strong>, <strong>Shell Script</strong></li>
-        <li>☁️ Experiência com: <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>, <strong>Observabilidade</strong>, <strong>Cloud (AWS/GCP/Azure)</strong></li>
-        <li>📈 Monitoramento: <strong>Grafana</strong>, <strong>Prometheus</strong>, <strong>ELK</strong>, <strong>Datadog</strong></li>
-        <li>📡 APIs: REST, WebSockets, OpenAPI, API Gateway</li>
-      </ul>
-    </td>
-    <td align="center" style="width: 35%;">
-      <p style="color: #8b949e;"><strong>📫 Como me encontrar:</strong></p>
-      <a href="https://www.linkedin.com/in/cloliveira1/">
-        <img src="https://img.shields.io/badge/LinkedIn-Clesley%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a><br><br>
-      <a href="mailto:clesley.oliveira@gmail.com">
-        <img src="https://img.shields.io/badge/E--mail-clesley.oliveira@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+## whoami
 
-<hr style="border-color: #30363d; margin: 20px 0;"/>
+```bash
+$ probe fingerprint https://github.com/khalango02
+
+[+] Name          Clesley Oliveira — CL35
+[+] Age           30
+[+] Role          Senior Backend Engineer & API Security
+[+] Location      São Paulo, Brasil
+[+] Experience    Backend development since the days of bare Node.js APIs
+[+] Currently     Studying offensive security · Playing web CTFs
+[+] Stack         Go · Python · TypeScript · Terraform · Docker · K8s
+[*] Interests     Cryptography · Hardware Hacking · Geopolitics · AI
+```
+
+---
+
+## Focus areas
+
+**Backend & APIs**
+Designing and securing high-throughput APIs — REST, WebSockets, gateways. Strong background in distributed systems, observability (Grafana, Prometheus, ELK) and cloud infrastructure (AWS, GCP, Azure).
+
+**API Security**
+Rate limiting, authentication flows, JWT hardening, CORS audits, injection prevention. Security is an architecture concern, not an afterthought.
+
+**Offensive Security / CTF**
+Currently diving deep into web exploitation: SQLi, SSTI, IDOR, authentication bypass, cookie forgery. Building my own tools to understand attacks from the inside out.
+
+---
+
+## Tech stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | Go · Python · TypeScript · JavaScript |
+| **Infra** | Docker · Kubernetes · Terraform (HCL) |
+| **Cloud** | AWS · GCP · Azure |
+| **Databases** | PostgreSQL · MongoDB · Redis |
+| **Observability** | Grafana · Prometheus · ELK · Datadog |
+| **Security** | Burp Suite · Wireshark · custom Go tooling |
+| **AI / ML** | OpenAI · Ollama · pgvector · RAG pipelines |
+
+---
+
+## Featured projects
+
+### [probe](https://github.com/khalango02/probe) `Go`
+Modular web analysis toolkit built for CTF and pentesting. Single binary, no runtime dependencies. Runs entirely in the terminal.
+- HTTP fingerprinting — tech stack, WAF, security headers, CORS
+- Parameter mining with concurrent workers
+- Injection testing: SQLi (error + time-based), SSTI, XSS, path traversal, CMDi
+- Response differ for IDOR and authorization logic
+- Cookie decoder: JWT, Flask session, Base64, Hex
+
+### [matchmaking-agent](https://github.com/khalango02/matchmaking-agent) `Python`
+AI-powered matchmaking platform using semantic search (pgvector) + LLM reasoning (GPT-4o-mini). Progressive learning through a RAG pipeline fed by human feedback.
+
+### [project-nomad](https://github.com/khalango02/project-nomad) `TypeScript`
+Self-contained offline survival computer — AI, knowledge base, medical references and education platform. Built for when connectivity is not an option.
+
+### [pdf-translator](https://github.com/khalango02/pdf-translator) `TypeScript`
+Scientific PDF translator powered by GPT-4o. Preserves document structure, equations, citations and cross-references across 11 languages.
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalango02&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalango02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+</div>
+
+---
+
+## Beyond code
+
+```
+Geopolitics       ████████████░░░  Following global power shifts and
+                                   how they shape the tech landscape.
+
+Cryptography      ██████████░░░░░  From classical ciphers to modern
+                                   asymmetric schemes and ZK proofs.
+
+Hardware Hacking  ████████░░░░░░░  Raspberry Pi, ESP32, RF protocols,
+                                   physical attack surfaces.
+
+CTF               ███████░░░░░░░░  Web category. Breaking things is
+                                   the best way to learn to build them.
+```
+
+---
+
+<div align="center">
+
+*Building systems that don't break. Breaking systems that shouldn't exist.*
+
+</div>
