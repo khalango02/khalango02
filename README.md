@@ -9,9 +9,7 @@
  ╚═════╝╚══════╝╚═════╝ ╚══════╝
 ```
 
-**Backend Engineer · API Security · CTF Player**
-
-*"Technology has been my first language since I was 4."*
+**Backend Engineer · API Security · Cybersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clesley%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloliveira1/)
 [![Email](https://img.shields.io/badge/Email-clesley.oliveira@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:clesley.oliveira@gmail.com)
@@ -31,7 +29,7 @@ $ probe fingerprint https://github.com/khalango02
 [+] Role          Senior Backend Engineer & API Security
 [+] Location      São Paulo, Brasil
 [+] Experience    Backend development since the days of bare Node.js APIs
-[+] Currently     Studying offensive security · Playing web CTFs
+[+] Currently     Studying offensive security · Web exploitation
 [+] Stack         Go · Python · TypeScript · Terraform · Docker · K8s
 [*] Interests     Cryptography · Hardware Hacking · Geopolitics · AI
 ```
@@ -46,8 +44,8 @@ Designing and securing high-throughput APIs — REST, WebSockets, gateways. Stro
 **API Security**
 Rate limiting, authentication flows, JWT hardening, CORS audits, injection prevention. Security is an architecture concern, not an afterthought.
 
-**Offensive Security / CTF**
-Currently diving deep into web exploitation: SQLi, SSTI, IDOR, authentication bypass, cookie forgery. Building my own tools to understand attacks from the inside out.
+**Offensive Security**
+Studying web exploitation in depth: SQLi, SSTI, IDOR, authentication bypass, cookie forgery. Building custom tooling to understand attack surfaces from the inside out.
 
 ---
 
@@ -78,9 +76,6 @@ Modular web analysis toolkit built for CTF and pentesting. Single binary, no run
 ### [matchmaking-agent](https://github.com/khalango02/matchmaking-agent) `Python`
 AI-powered matchmaking platform using semantic search (pgvector) + LLM reasoning (GPT-4o-mini). Progressive learning through a RAG pipeline fed by human feedback.
 
-### [project-nomad](https://github.com/khalango02/project-nomad) `TypeScript`
-Self-contained offline survival computer — AI, knowledge base, medical references and education platform. Built for when connectivity is not an option.
-
 ### [pdf-translator](https://github.com/khalango02/pdf-translator) `TypeScript`
 Scientific PDF translator powered by GPT-4o. Preserves document structure, equations, citations and cross-references across 11 languages.
 
@@ -110,8 +105,8 @@ Cryptography      ██████████░░░░░  From classical 
 Hardware Hacking  ████████░░░░░░░  Raspberry Pi, ESP32, RF protocols,
                                    physical attack surfaces.
 
-CTF               ███████░░░░░░░░  Web category. Breaking things is
-                                   the best way to learn to build them.
+Cybersecurity     ███████░░░░░░░░  Web exploitation, API attack surfaces,
+                                   building offensive tooling from scratch.
 ```
 
 ---
