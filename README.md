@@ -48,19 +48,3 @@ cl35@probe:~$ ls ~/projects/
 cl35@probe:~$ █
 ```
 
----
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ~/projects/                                                        │
-├──────────────────────┬──────────────┬──────────────────────────────┤
-│  probe               │  Go          │  Modular web analysis toolkit │
-│                      │              │  fingerprint · inject · diff  │
-├──────────────────────┼──────────────┼──────────────────────────────┤
-│  matchmaking-agent   │  Python      │  AI matchmaking · pgvector   │
-│                      │              │  RAG pipeline · GPT-4o-mini  │
-├──────────────────────┼──────────────┼──────────────────────────────┤
-│  pdf-translator      │  TypeScript  │  Scientific PDF → 11 langs   │
-│                      │              │  GPT-4o · structure preserved │
-└──────────────────────┴──────────────┴──────────────────────────────┘
-```
