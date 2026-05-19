@@ -36,6 +36,7 @@ cl35@probe:~$ ls ~/stack/
 
 cl35@probe:~$ probe fingerprint ~/interests
 
+  [+] Backend Development  distributed systems · API design · high-throughput services
   [+] Cryptography        classical ciphers → asymmetric schemes
   [+] Hardware Hacking    ESP32, RF protocols, physical surfaces  
   [+] Geopolitics         tech, power and global dynamics
