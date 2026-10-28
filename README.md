@@ -23,7 +23,7 @@ cl35@probe:~$ cat whoami.txt
   name     →  Clesley Oliveira
   role     →  Backend SR · API Security
   location →  São Paulo, Brasil
-  age      →  30
+  age      →  31
 
 cl35@probe:~$ ls ~/stack/
 
